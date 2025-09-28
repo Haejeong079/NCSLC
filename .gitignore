@@ -1,1 +1,8 @@
 *.h5
+
+*.h5
+*.fastq
+*.bam
+*.sam
+__pycache__/
+.ipynb_checkpoints/
