@@ -1,10 +1,19 @@
-*.h5
-
+# Ignore data and large files
 *.h5
 *.fastq
 *.bam
 *.sam
+*.tsv
+*.csv
+*.mtx
+*.txt
 
-.tsv
+# Ignore analysis outputs
+ncslc/*.txt
+results/
+data/
+
+# Ignore Python artifacts
 __pycache__/
 .ipynb_checkpoints/
+*.pyc
