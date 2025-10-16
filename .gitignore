@@ -7,6 +7,7 @@
 *.csv
 *.mtx
 *.txt
+*.h5ad
 
 # Ignore analysis outputs
 ncslc/*.txt
