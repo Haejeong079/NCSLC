@@ -28,6 +28,5 @@ __pycache__/
 *.vcf.gz
 *.bed.gz
 *.gtf.gz
-*.bigWig
 *.bw
 *.bai
