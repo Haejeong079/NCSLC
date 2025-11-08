@@ -30,3 +30,6 @@ __pycache__/
 *.gtf.gz
 *.bw
 *.bai
+
+*.pkl
+*.model
